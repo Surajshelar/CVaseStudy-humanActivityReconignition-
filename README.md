@@ -1,1 +1,1 @@
-# CVaseStudy-humanActivityReconignition-
+# CaseStudy-humanActivityReconignition-
